@@ -1,2 +1,2 @@
 # SQL-Projects-from-ALX
-Projects containing SQL projects
+Projects containing SQL content
